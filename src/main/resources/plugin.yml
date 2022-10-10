@@ -1,0 +1,4 @@
+name: LaLaMilk
+version: '${version}'
+main: com.github.albardoo02.LaLaMilk
+description: ばにらのみるく
